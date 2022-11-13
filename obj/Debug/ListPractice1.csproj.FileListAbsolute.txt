@@ -1,0 +1,8 @@
+D:\ListPractice1\bin\Debug\ListPractice1.exe.config
+D:\ListPractice1\bin\Debug\ListPractice1.exe
+D:\ListPractice1\bin\Debug\ListPractice1.pdb
+D:\ListPractice1\obj\Debug\ListPractice1.csproj.AssemblyReference.cache
+D:\ListPractice1\obj\Debug\ListPractice1.csproj.SuggestedBindingRedirects.cache
+D:\ListPractice1\obj\Debug\ListPractice1.csproj.CoreCompileInputs.cache
+D:\ListPractice1\obj\Debug\ListPractice1.exe
+D:\ListPractice1\obj\Debug\ListPractice1.pdb
